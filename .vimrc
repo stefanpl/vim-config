@@ -20,3 +20,9 @@ filetype plugin indent on
 let g:neocomplete#enable_at_startup = 1
 " remap emmet trigger shortkey (need to press , afterwards); 
 let g:user_emmet_leader_key='<C-K>'
+" use this command to write a file which is opened without write-permission
+cmap w!! w !sudo tee %
+" set paths for backup, swp and undo files
+set backupdir=~/.vim/backup//,/tmp//
+set directory=~/.vim/swap//,/tmp//
+set undodir=~/.vim/undo//,/tmp//
