@@ -1,0 +1,6 @@
+backup/*
+swap/*
+undo/*
+!backup/
+!swap/
+!undo/
