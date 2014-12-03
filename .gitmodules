@@ -1,6 +1,6 @@
 [submodule "bundle/snipmate.vim"]
 	path = bundle/snipmate.vim
-	url = git@github.com:stefanpl/snipmate.vim.git
+	url = https://github.com/stefanpl/snipmate.vim.git
 [submodule "bundle/vim-SimpleSmoothScroll"]
 	path = bundle/vim-SimpleSmoothScroll
 	url = https://github.com/Kazark/vim-SimpleSmoothScroll.git
