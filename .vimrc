@@ -7,7 +7,7 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 syntax enable
-colorscheme ir_black
+colorscheme dual
 "enable transparent background
 hi Normal ctermbg=NONE
 " size of tab hardstop
