@@ -34,3 +34,6 @@ let g:vdebug_options = {
 \ 'path_maps': {"/var/www": "/home/stefan/webdev/bruce/bruce-cms"},
 \ 'server': '0.0.0.0'
 \}
+
+"if this works, the anonymous register is replaced by system clipboard
+set clipboard=unnamedplus
