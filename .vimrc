@@ -37,3 +37,6 @@ let g:vdebug_options = {
 
 "if this works, the anonymous register is replaced by system clipboard
 set clipboard=unnamedplus
+
+" snippets magic
+so ~/.vim/bundle/snipmate.vim/scope.aliases
