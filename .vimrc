@@ -36,7 +36,13 @@ let g:vdebug_options = {
 \}
 
 "if this works, the anonymous register is replaced by system clipboard
-set clipboard=unnamedplus
+"set clipboard=unnamedplus
 
 " snippets magic
 so ~/.vim/bundle/snipmate.vim/scope.aliases
+
+" set mapleader key
+let mapleader=","
+
+" change nerdcommenter key
+:nnoremap <C-i> :NERDComToggleComment<CR>

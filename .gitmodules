@@ -29,3 +29,12 @@
 [submodule "bundle/vim-addon-mw-utils"]
 	path = bundle/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-slim"]
+	path = bundle/vim-slim
+	url = https://github.com/slim-template/vim-slim
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "bundle/nerdommenter"]
+	path = bundle/nerdommenter
+	url = https://github.com/scrooloose/nerdcommenter
