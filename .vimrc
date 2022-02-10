@@ -46,3 +46,5 @@ let mapleader=","
 
 " change nerdcommenter key
 :nnoremap <C-i> :NERDComToggleComment<CR>
+
+let g:ctrlp_show_hidden = 1
